@@ -27,7 +27,7 @@ spec:
         path: '{{path}}'
       destination:
         server: '{{server}}'
-        namespace: '{{namespace}}'
+        namespace: cluster-git
 
 # Sync policy
       syncPolicy:
